@@ -1,0 +1,17 @@
+{
+  "name": "@dbrowser/errors",
+  "version": "0.1.1",
+  "description": "dBrowser Errors Repository",
+  "contributors": [
+    "Jared Rice Sr. <jared@dwebs.io>",
+    "Bench Computer, Inc. <legal@benchx.io>"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
